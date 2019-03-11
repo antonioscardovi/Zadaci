@@ -1,9 +1,1 @@
-﻿  Gjuro.cpp
-c:\users\toni\desktop\code\bootcampit_c++\zadaci\gjuro\gjuro.cpp(19): warning C4552: '+': result of expression not used
-c:\users\toni\desktop\code\bootcampit_c++\zadaci\gjuro\gjuro.cpp(22): warning C4552: '-': result of expression not used
-c:\users\toni\desktop\code\bootcampit_c++\zadaci\gjuro\gjuro.cpp(25): warning C4552: '-': result of expression not used
-c:\users\toni\desktop\code\bootcampit_c++\zadaci\gjuro\gjuro.cpp(28): warning C4552: '+': result of expression not used
-c:\users\toni\desktop\code\bootcampit_c++\zadaci\gjuro\gjuro.cpp(31): warning C4552: '+': result of expression not used
-c:\users\toni\desktop\code\bootcampit_c++\zadaci\gjuro\gjuro.cpp(34): warning C4552: '-': result of expression not used
-c:\users\toni\desktop\code\bootcampit_c++\zadaci\gjuro\gjuro.cpp(37): warning C4552: '-': result of expression not used
-  Gjuro.vcxproj -> C:\Users\Toni\Desktop\Code\BootcampIT_C++\Zadaci\Gjuro\Debug\Gjuro.exe
+﻿  Gjuro.vcxproj -> C:\Users\UC-M03\Documents\Antonio Scardovi\Zadaci\Gjuro\Debug\Gjuro.exe

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  Cokolada.cpp
+c:\users\uc-m03\documents\antonio scardovi\zadaci\cokolada\cokolada.cpp(8): warning C4101: 'cokolada': unreferenced local variable
+  Cokolada.vcxproj -> C:\Users\UC-M03\Documents\Antonio Scardovi\Zadaci\Cokolada\Debug\Cokolada.exe
