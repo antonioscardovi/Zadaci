@@ -1,0 +1,3 @@
+﻿  Prosjekunizu.cpp
+c:\users\uc-m03\documents\antonio scardovi\zadaci\prosjekunizu\prosjekunizu.cpp(17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Prosjekunizu.vcxproj -> C:\Users\UC-M03\Documents\Antonio Scardovi\Zadaci\Prosjekunizu\Debug\Prosjekunizu.exe
