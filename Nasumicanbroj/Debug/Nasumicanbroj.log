@@ -1,0 +1,3 @@
+﻿  Nasumicanbroj.cpp
+c:\users\uc-m03\documents\antonio scardovi\zadaci\nasumicanbroj\nasumicanbroj.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Nasumicanbroj.vcxproj -> C:\Users\UC-M03\Documents\Antonio Scardovi\Zadaci\Nasumicanbroj\Debug\Nasumicanbroj.exe
