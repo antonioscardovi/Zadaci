@@ -18,5 +18,14 @@ int main()
 			pelud -= unos;
 		}
 
+		if (pelud < 0) {
+			return 0;
+		}
 	}
+
+	//for (int i = 0; i < 10; i++) {
+	//	cout << i << endl;
+	//}
+
+	cout << pelud;
 }
