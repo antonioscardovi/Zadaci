@@ -1,5 +1,2 @@
 ﻿  Joker.cpp
-c:\users\uc-m03\documents\antonio scardovi\zadaci\joker\joker.cpp(10): warning C4101: 'serijski1': unreferenced local variable
-c:\users\uc-m03\documents\antonio scardovi\zadaci\joker\joker.cpp(10): warning C4101: 'serijski2': unreferenced local variable
-c:\users\uc-m03\documents\antonio scardovi\zadaci\joker\joker.cpp(10): warning C4101: 'serijski3': unreferenced local variable
   Joker.vcxproj -> C:\Users\UC-M03\Documents\Antonio Scardovi\Zadaci\Joker\Debug\Joker.exe
