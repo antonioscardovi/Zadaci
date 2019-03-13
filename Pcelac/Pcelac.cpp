@@ -9,7 +9,7 @@ int main()
 	int pelud = 50;
 	int unos;
 
-	for (int i = 0; i < 10; i++) {
+	for (int i = 0; i < 9; i++) {
 		cin >> unos;
 		if (unos >= 0) {
 			pelud += unos;
