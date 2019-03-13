@@ -180,8 +180,8 @@ int main()
 		cout << "TAO" << " " << tao;
 	}
 	else if (feng == tao && feng == lin) {
+		cout << "LIN" << " " << feng << endl;
 		cout << "FENG" << " " << feng << endl;
-		cout << "LIN" << " " << lin << endl;
-		cout << "TAO" << " " << tao;
+		cout << "TAO" << " " << feng;
 	}
 }
