@@ -1,0 +1,3 @@
+﻿  Pikado.cpp
+c:\users\anton\documents\antoniusz\code\zadaci\pikado\pikado.cpp(18): warning C4553: '==': result of expression not used; did you intend '='?
+  Pikado.vcxproj -> C:\Users\anton\Documents\Antoniusz\Code\Zadaci\Pikado\Debug\Pikado.exe
