@@ -12,5 +12,11 @@ int main()
 
 	for (int i = 0; i < n; i++) {
 		cin >> broj[i];
+		// Za svaki krug nadi najmanji broj
+		for (int j = 0; j < n; j++) {
+
+		}
 	}
+
+
 }
